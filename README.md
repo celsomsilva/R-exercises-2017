@@ -21,4 +21,4 @@ This repository is my first contact with R programming through the Johns Hopkins
 ## Contact  
 
 - [LinkedIn](https://linkedin.com/in/celso-m-silva)  
-- Or open an [issue](https://github.com/celsomsilva/R-programming-exercises)
+- Or open an [issue](https://github.com/celsomsilva/R-programming-exercises/issues)
